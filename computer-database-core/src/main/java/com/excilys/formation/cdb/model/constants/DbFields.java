@@ -16,6 +16,11 @@ public class DbFields {
     public static final String COMPANY_NAME = "company_name";
     public static final String COMPANY_PICTURE_URL = "company_picture_url";
 
+    public static final String USER = "user";
+    public static final String USERNAME = "username";
+    public static final String PASSWORD = "password";
+    public static final String ROLE = "role";
+    
     private DbFields() {
     }
 }
